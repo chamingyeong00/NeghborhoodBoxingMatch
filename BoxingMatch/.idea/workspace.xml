@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c86adc99-e28d-4e1c-beef-64ceec11bad1" name="변경" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2xzZwV7st4FJd33VH4UMQ7k5p5Q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Gradle.BoxingMatch 빌드.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.BoxingMatchApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/chamingyeong/GitHub/NeghborhoodBoxingMatch/BoxingMatch",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.24320988",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="BoxingMatchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="BoxingMatch.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.boxingmatch.BoxingMatchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="c86adc99-e28d-4e1c-beef-64ceec11bad1" name="변경" comment="" />
+      <created>1748943104338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748943104338</updated>
+      <workItem from="1748943105314" duration="2273000" />
+      <workItem from="1748945399639" duration="357000" />
+      <workItem from="1748945762825" duration="200000" />
+      <workItem from="1748945969584" duration="131000" />
+      <workItem from="1748951561820" duration="846000" />
+      <workItem from="1748952412783" duration="6000" />
+      <workItem from="1748952422771" duration="28000" />
+      <workItem from="1748952464164" duration="709000" />
+      <workItem from="1748953203662" duration="118000" />
+      <workItem from="1748953330509" duration="909000" />
+      <workItem from="1748954251513" duration="272000" />
+      <workItem from="1748954529399" duration="1124000" />
+      <workItem from="1748955661348" duration="145000" />
+      <workItem from="1748955810038" duration="2177000" />
+      <workItem from="1748960647077" duration="642000" />
+      <workItem from="1748961295415" duration="710000" />
+      <workItem from="1748962011324" duration="297000" />
+      <workItem from="1748962316897" duration="135000" />
+      <workItem from="1748962456774" duration="415000" />
+      <workItem from="1748962877778" duration="403000" />
+      <workItem from="1748963287250" duration="176000" />
+      <workItem from="1748963468972" duration="20000" />
+      <workItem from="1748963495307" duration="1459000" />
+      <workItem from="1748964966513" duration="625000" />
+      <workItem from="1748965598531" duration="6000" />
+      <workItem from="1748965610177" duration="506000" />
+      <workItem from="1748966121359" duration="170000" />
+      <workItem from="1748966296058" duration="271000" />
+      <workItem from="1748966572046" duration="128000" />
+      <workItem from="1748998791332" duration="2911000" />
+      <workItem from="1749001795633" duration="1569000" />
+      <workItem from="1749003373811" duration="4000" />
+      <workItem from="1749003381702" duration="1205000" />
+      <workItem from="1749007079417" duration="286000" />
+      <workItem from="1749007373318" duration="831000" />
+      <workItem from="1749008212014" duration="1341000" />
+      <workItem from="1749012172789" duration="307000" />
+      <workItem from="1749012484949" duration="29000" />
+      <workItem from="1749012518663" duration="11000" />
+      <workItem from="1749012534503" duration="14000" />
+      <workItem from="1749012554099" duration="16028000" />
+      <workItem from="1749048051981" duration="2652000" />
+      <workItem from="1749051119040" duration="354000" />
+      <workItem from="1749051478928" duration="1265000" />
+      <workItem from="1749370401498" duration="30185000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
