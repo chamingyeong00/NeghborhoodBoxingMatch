@@ -46,9 +46,9 @@ EXIT;
 3. 소스코드 준비
 	1.	Git 레포지토리 클론
 
-git clone https://your.repo.url/your-project.git
-cd your-project
-
+git clone https://github.com/chamingyeong00/NeghborhoodBoxingMatch.git
+cd NeghborhoodBoxingMatch
+cd BoxingMatch
 
 	2.	Gradle Wrapper 실행 권한 부여 (macOS/Linux)
 
@@ -74,15 +74,9 @@ chmod +x gradlew
 
 4.3. 패키징된 JAR 실행
 
-java -jar build/libs/your-project-0.0.1-SNAPSHOT.jar \
+java -jar build/libs/BoxingMatch-0.0.1-SNAPSHOT.jar \
   --spring.profiles.active=prod \
   --server.port=8080
-
-	•	필요 시 환경 변수로 데이터베이스 설정 주입
-
-export SPRING_DATASOURCE_URL=jdbc:mysql://localhost:3306/boxing_match
-export SPRING_DATASOURCE_USERNAME=root
-export SPRING_DATASOURCE_PASSWORD=1234
 
 ==============================================================================
 5. 실행 확인
