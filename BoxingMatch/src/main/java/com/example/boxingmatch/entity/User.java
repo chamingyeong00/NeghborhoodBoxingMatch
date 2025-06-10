@@ -42,8 +42,4 @@ public class User {
 
     @Enumerated(EnumType.STRING)
     private SkillLevelCondition skilllevelCondition;
-
-    public String getNickname() {
-        return username;
-    }
 }
