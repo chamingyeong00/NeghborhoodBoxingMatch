@@ -99,7 +99,3 @@ curl -I http://localhost:8080/actuator/health
 	•	org.projectlombok:lombok
 	•	org.glassfish.jaxb:jaxb-runtime
 
-==============================================================================
-7. 문의 및 지원
-
-문제 발생 시 로그를 첨부하여 개발자 또는 연구실 관리자에게 문의하세요.
