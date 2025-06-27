@@ -1,5 +1,3 @@
-README.txt
-
 BoxingMatch Application 실행 가이드
 
 이 문서는 연구실 컴퓨터 또는 로컬 환경에서 BoxingMatch Spring Boot 애플리케이션을 정상적으로 실행하기 위한 절차를 담고 있습니다.
